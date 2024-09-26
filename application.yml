@@ -1,1 +1,4 @@
+external.api.urlCreate=http://localhost:9293/create
+external.api.urlGetId=http://localhost:9293/get-data/{id}
+external.api.urlGet=http://localhost:9293/get-data
 
