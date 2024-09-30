@@ -1,4 +1,5 @@
-external.api.urlGet=http://api.service.com/getStudents
-external.api.urlCreate=http://api.service.com/createStudent
-external.api.urlGetId=http://api.service.com/getStudent/{id}
-
+<properties>
+  <entry key="external.api.urlGet">http://api.service.com/getStudents</entry>
+  <entry key="external.api.urlCreate">http://api.service.com/createStudent</entry>
+  <entry key="external.api.urlGetId">http://api.service.com/getStudent/{id}</entry>
+</properties>
