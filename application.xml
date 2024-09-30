@@ -1,1 +1,4 @@
+external.api.urlGet=http://api.service.com/getStudents
+external.api.urlCreate=http://api.service.com/createStudent
+external.api.urlGetId=http://api.service.com/getStudent/{id}
 
