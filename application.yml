@@ -1,5 +1,0 @@
-external:
- api:
-  urlCreate: http://localhost:9293/create
-  urlGetId: http://localhost:9293/get-data/{id}
-  urlGet: http://localhost:9293/get-data
